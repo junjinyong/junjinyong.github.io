@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "JinYong Jun"
   pronouns         : # example: "she/her"  
-  bio              : "I am interested in AI infrastructure software and scalable accelerator systems, particularly in the context of high-performance computing and parallel and distributed computing, and I have recently been exploring Tenstorrent systems."
+  bio              : "I am interested in AI infrastructure software and scalable accelerator systems, and I have recently been exploring Tenstorrent systems."
   location         : "Seoul, Republic of Korea"
   employer         : "Seoul National University"
   uri              : # URL
