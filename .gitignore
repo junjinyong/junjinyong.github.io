@@ -21,3 +21,23 @@ vendor/
 
 # Ignore local maintenance notes for AI/code agents
 AGENTS.md
+
+# Ignore local LaTeX build artifacts for the CV source
+cv/*.aux
+cv/*.bbl
+cv/*.bcf
+cv/*.blg
+cv/*.dvi
+cv/*.fdb_latexmk
+cv/*.fls
+cv/*.log
+cv/*.nav
+cv/*.out
+cv/*.pdf
+cv/*.run.xml
+cv/*.snm
+cv/*.synctex.gz
+cv/*.toc
+cv/*.vrb
+cv/*.xdv
+cv/build/
