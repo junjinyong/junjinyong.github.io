@@ -33,7 +33,6 @@ cv/*.fls
 cv/*.log
 cv/*.nav
 cv/*.out
-cv/*.pdf
 cv/*.run.xml
 cv/*.snm
 cv/*.synctex.gz
